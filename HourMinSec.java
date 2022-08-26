@@ -1,3 +1,7 @@
+//William Wang
+//8-14-22
+//2.7
+
 import java.util.Scanner;
 
 public class HourMinSec {
